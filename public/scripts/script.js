@@ -424,11 +424,13 @@ function shareCopyText(text) {
         copyTextToClipboard(text);
         return;
     }
-    navigator.share(text).then(function() {
-        console.log('Async: sharing was successful!');
-    }, function(err) {
-        console.error('Async: Could not share: ', err);
-    });
+    navigator.share({
+        title: document.title,
+        text: text,
+        url: window.location.href
+    })
+    .then(() => console.log('Successful share! 🎉'))
+    .catch(err => console.error(err));
 }
 
 //*********************************************************************************
