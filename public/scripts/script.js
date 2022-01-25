@@ -378,7 +378,7 @@ function getShare(){
 
     shareText += '\nhttps://www.WORLDle.earth';
 
-    copyTextToClipboard(shareText);
+    shareCopyText(shareText);
 }
 
 function fallbackCopyTextToClipboard(text) {
@@ -406,6 +406,7 @@ function fallbackCopyTextToClipboard(text) {
 
 function copyTextToClipboard(text) {
     if (!navigator.clipboard) {
+        console.log('does not support navigator.clipboard');
         fallbackCopyTextToClipboard(text);
         return;
     }
@@ -413,6 +414,19 @@ function copyTextToClipboard(text) {
         console.log('Async: Copying to clipboard was successful!');
     }, function(err) {
         console.error('Async: Could not copy text: ', err);
+    });
+}
+
+function shareCopyText(text) {
+    if (!navigator.share) {
+        console.log('does not support navigator.share');
+        copyTextToClipboard(text);
+        return;
+    }
+    navigator.share(text).then(function() {
+        console.log('Async: sharing was successful!');
+    }, function(err) {
+        console.error('Async: Could not share: ', err);
     });
 }
 
