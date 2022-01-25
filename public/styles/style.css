@@ -10,6 +10,7 @@ header {
     height: 400px;
     width: 100%;
 }
+
 .ol-popup {
     visibility: hidden;
     position: relative;
@@ -54,8 +55,8 @@ header {
     padding: 20px 10px 0 10px;
     font-family: 'Josefin Sans';
 
-    line-height: xx-large;
-    font-size: x-large;
+
+    font-size: 3.4vmin;
     user-select: none;
 }
 .redactedblack {
@@ -74,9 +75,22 @@ header {
     transform: skewY(-5deg) rotate(5deg);
 }
 .redacted {
-    filter: blur(6px);
+    filter: blur(2.0vmin);
 }
 .hilite {
     background: yellow;
     transition: all 1.1s ease-in-out;
+}
+
+@media screen and (max-device-width:576px), screen and (max-width:576px) {
+    .map {
+        height: 660px;
+    }
+    .desc {
+        font-size: 4.4vmin;
+    }
+
+    header {
+        font-size: 6.0vmin;
+    }
 }
