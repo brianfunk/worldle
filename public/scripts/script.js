@@ -15,7 +15,7 @@ var targetList = [
 {
     coordinate: [-77.0365, 38.8977],
     title: 'The White House',
-    text: ''
+    text: 'The <span class="redacted" id="hint-0">White House</span> is the official <span class="redacted" id="hint-15">residence and workplace</span> of the <span class="redacted" id="hint-4">president of the United States</span>. It is located at <span class="redacted" id="hint-1">1600 Pennsylvania Avenue NW</span> in <span class="redacted" id="hint-7">Washington, D.C.</span>, and has been <span class="redacted" id="hint-14">the residence</span> of every <span class="redacted" id="hint-3">U.S. president</span> since <span class="redacted" id="hint-2">John Adams</span> in <span class="redacted" id="hint-10">1800</span>. The property is <span class="redacted" id="hint-6">a National Heritage Site</span> owned by <span class="redacted" id="hint-12">the National Park Service</span> and is part of the <span class="redacted" id="hint-5">President\'s Park</span>. During <span class="redacted" id="hint-9">the War of 1812</span>, the <span class="redacted" id="hint-13">mansion</span> was <span class="redacted" id="hint-11">set ablaze</span> by the <span class="redacted" id="hint-8">British Army</span>.'
 },
 {
     coordinate: [-77.050139, 38.889278],
@@ -30,13 +30,14 @@ var targetList = [
 {
     coordinate: [-73.552, 45.558],
     title: "Olympic Stadium",
-    text: ''
+    text: '<span class="redacted" id="hint-0">Olympic Stadium</span> is a <span class="redacted" id="hint-8">multi-purpose stadium</span> in <span class="redacted" id="hint-1">Montreal, Canada</span>, located at <span class="redacted" id="hint-9">Olympic Park</span> in the <span class="redacted" id="hint-4">Hochelaga-Maisonneuve district</span>. Built in the <span class="redacted" id="hint-7">mid-1970s</span> as the <span class="redacted" id="hint-16">main venue</span> for the <span class="redacted" id="hint-5">1976 Summer Olympics</span>, it is nicknamed <span class="redacted" id="hint-10">"The Big O"</span>. The <span class="redacted" id="hint-2">Montreal Tower</span> next to the <span class="redacted" id="hint-15">stadium</span> is the <span class="redacted" id="hint-17">tallest inclined tower</span> in the world with an <span class="redacted" id="hint-12">angle elevation of 45 degrees</span>. The <span class="redacted" id="hint-13">stadium</span> is the <span class="redacted" id="hint-18">largest by seating capacity</span> in <span class="redacted" id="hint-3">Canada</span> but has not had a <span class="redacted" id="hint-11">main tenant</span> since the <span class="redacted" id="hint-6">Expos left</span> in <span class="redacted" id="hint-14">2004</span>.'
 },
 ];
 
 //*********************************************************************************
 
 var randomTarget = Math.floor(Math.random() * targetList.length);
+//var randomTarget = 5;
 
 var targetCoordinate = targetList[randomTarget].coordinate;
 var targetTitle = targetList[randomTarget].title;
@@ -376,7 +377,7 @@ function getShare(){
 
     shareText += '\nArea Scanned = '+ Number(areaScanned/1000/1000).toLocaleString() +' km²';
 
-    shareText += '\nhttps://www.WORLDle.earth';
+    shareText += '\nhttps://www.WORLDle.world';
 
     shareCopyText(shareText);
 }
