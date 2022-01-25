@@ -427,7 +427,6 @@ function shareCopyText(stext) {
     navigator.share({
         title: 'WORLDle',
         text: stext,
-        url: 'https://www.worldle.world'
     })
     .then(() => console.log('Successful share! 🎉'))
     .catch(err => console.error(err));
