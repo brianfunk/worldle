@@ -382,9 +382,9 @@ function getShare(){
     shareCopyText(shareText);
 }
 
-function fallbackCopyTextToClipboard(text) {
+function fallbackCopyTextToClipboard(stext) {
     var textArea = document.createElement("textarea");
-    textArea.value = text;
+    textArea.value = stext;
 
     textArea.style.top = "0";
     textArea.style.left = "0";
@@ -405,29 +405,29 @@ function fallbackCopyTextToClipboard(text) {
     document.body.removeChild(textArea);
 }
 
-function copyTextToClipboard(text) {
+function copyTextToClipboard(stext) {
     if (!navigator.clipboard) {
         console.log('does not support navigator.clipboard');
-        fallbackCopyTextToClipboard(text);
+        fallbackCopyTextToClipboard(stext);
         return;
     }
-    navigator.clipboard.writeText(text).then(function() {
+    navigator.clipboard.writeText(stext).then(function() {
         console.log('Async: Copying to clipboard was successful!');
     }, function(err) {
         console.error('Async: Could not copy text: ', err);
     });
 }
 
-function shareCopyText(text) {
+function shareCopyText(stext) {
     if (!navigator.share) {
         console.log('does not support navigator.share');
-        copyTextToClipboard(text);
+        copyTextToClipboard(stext);
         return;
     }
     navigator.share({
-        title: document.title,
-        text: text,
-        url: window.location.href
+        title: 'WORLDle',
+        text: stext,
+        url: 'https://www.worldle.world'
     })
     .then(() => console.log('Successful share! 🎉'))
     .catch(err => console.error(err));
