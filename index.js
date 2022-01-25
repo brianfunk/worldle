@@ -43,7 +43,6 @@ const app = express();
 
 app.use(cors());
 app.use(helmet());
-app.use(helmet.noCache());
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
