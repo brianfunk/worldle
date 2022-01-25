@@ -354,6 +354,8 @@ function getShare(){
     var shareHTML = "";
     var shareText = "";
 
+    shareText += 'WORLDle\n';
+
     for (var i=0; i < trackArray.length; i++) {
 
         if (trackArray[i][1]) {
@@ -370,13 +372,11 @@ function getShare(){
     shareHTML += starEmoji;
     shareText += '⭐';
 
-    shareHTML += '<br/>Distance Traveled = '+ Number(distanceTraveled/1000).toLocaleString() +' km';
     shareText += '\nDistance Traveled = '+ Number(distanceTraveled/1000).toLocaleString() +' km';
 
-    shareHTML += '<br/>Area Scanned = '+ Number(areaScanned/1000/1000).toLocaleString() +' km<sup>2</sup>';
     shareText += '\nArea Scanned = '+ Number(areaScanned/1000/1000).toLocaleString() +' km²';
 
-    //document.getElementById("share").innerHTML = shareHTML;
+    shareText += '\nhttps://www.WORLDle.earth';
 
     copyTextToClipboard(shareText);
 }
