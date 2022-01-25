@@ -33,14 +33,14 @@
   },
   "homepage": "https://github.com/brianfunk/worldle#readme",
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "cors": "^2.8.1",
-    "dotenv": "^4.0.0",
-    "express": "^4.15.2",
-    "file-stream-rotator": "^0.1.0",
-    "helmet": "^3.5.0",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.0",
+    "express": "^4.17.2",
+    "file-stream-rotator": "^0.6.1",
+    "helmet": "^5.0.2",
     "include": "^1.1.0",
-    "mkdirp": "^0.5.1",
-    "morgan": "^1.8.1"
+    "mkdirp": "^1.0.4",
+    "morgan": "^1.10.0"
   }
 }
