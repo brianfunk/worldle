@@ -1,10 +1,10 @@
 {
-  "name": "worldle",
-  "version": "1.0.0",
+  "name": "WORLDle",
+  "version": "1.0.1",
   "description": "WORLDle",
   "engines": {
-    "node": ">=7.7.x",
-    "npm": ">=3.10.x"
+    "node": ">=16.13.x",
+    "npm": ">=8.1.x"
   },
   "main": "index.js",
   "scripts": {
@@ -38,7 +38,6 @@
     "dotenv": "^14.3.0",
     "express": "^4.17.2",
     "file-stream-rotator": "^0.6.1",
-    "helmet": "^5.0.2",
     "include": "^1.1.0",
     "mkdirp": "^1.0.4",
     "morgan": "^1.10.0"
