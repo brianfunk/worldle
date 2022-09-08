@@ -24,10 +24,13 @@
         },
       };
 
+      console.log(window.location.origin);
+      console.log(window.location.host);
+
       var queryString = window.location.search;
       var urlParams = new URLSearchParams(queryString);
-      var url = urlParams.get("url");
-      //var url = "https://quantum-rasure.tech/abcdef123456";
+      var id = urlParams.get("id");
+      var url = window.location.origin + "/geo.html?id=" + id;
 
       QRCode.toCanvas(
         document.getElementById("canvas"),

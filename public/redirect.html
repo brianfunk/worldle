@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Redirect</title>
+  </head>
+  <body>
+    <div id="red"></div>
+    <script>
+      var red = document.getElementById("red");
+
+      var queryString = window.location.search;
+      var urlParams = new URLSearchParams(queryString);
+      var id = urlParams.get("id");
+      var lat = urlParams.get("lat");
+      var lon = urlParams.get("lon");
+
+      red.innerHTML =
+        "ID: " + id + " | Latitude: " + lat + " | Longitude: " + lon;
+    </script>
+  </body>
+</html>

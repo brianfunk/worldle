@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Geo</title>
+  </head>
+  <body>
+    <div id="geo"></div>
+    <script>
+      var geo = document.getElementById("geo");
+
+      var queryString = window.location.search;
+      var urlParams = new URLSearchParams(queryString);
+      var id = urlParams.get("id");
+
+      if (navigator.geolocation) {
+        position = navigator.geolocation.getCurrentPosition(success, error);
+      } else {
+        geo.innerHTML = "Geolocation is not supported by this browser.";
+      }
+
+      var lat = 0;
+      var lon = 0;
+
+      function success(position) {
+        var coords = position.coords;
+
+        lat = coords.latitude;
+        lon = coords.longitude;
+
+        geo.innerHTML = "Latitude: " + lat + " | Longitude: " + lon;
+
+        console.log("Your current position is:");
+        console.log(`Latitude : ${coords.latitude}`);
+        console.log(`Longitude: ${coords.longitude}`);
+        console.log(`More or less ${coords.accuracy} meters.`);
+
+        window.location.replace(
+          "redirect.html?id=" + id + "&lat=" + lat + "&lon=" + lon
+        );
+      }
+      function error(err) {
+        console.warn(`ERROR(${err.code}): ${err.message}`);
+      }
+    </script>
+  </body>
+</html>
