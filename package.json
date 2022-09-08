@@ -40,6 +40,7 @@
     "file-stream-rotator": "^0.6.1",
     "include": "^1.1.0",
     "mkdirp": "^1.0.4",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "qrcode": "^1.5.1"
   }
 }

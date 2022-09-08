@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>QR</title>
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+
+    <script src="/scripts/qrcode.js"></script>
+    <script>
+      var opts = {
+        //errorCorrectionLevel: 'H',
+        //type: 'image/jpeg',
+        //quality: 0.3,
+        margin: 2,
+        width: 240,
+        color: {
+          //dark:"#2A296BFF",
+          //light:"#F7931EFF",
+          dark: "#F7931EFF",
+          light: "#FFFFFFFF",
+        },
+      };
+
+      var queryString = window.location.search;
+      var urlParams = new URLSearchParams(queryString);
+      var url = urlParams.get("url");
+      //var url = "https://quantum-rasure.tech/abcdef123456";
+
+      QRCode.toCanvas(
+        document.getElementById("canvas"),
+        url,
+        opts,
+        function (error) {
+          if (error) console.error(error);
+          console.log("success!");
+        }
+      );
+    </script>
+  </body>
+</html>
