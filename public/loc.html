@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <title>Loc</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/ol@v7.1.0/dist/ol.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/ol@v7.1.0/ol.css"
+    />
+
+    <style>
+      .map {
+        width: 400px;
+        height: 400px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map" class="map"></div>
+
+    <script>
+      var base = {
+        name: "toner",
+        source: new ol.source.Stamen({ layer: "toner" }),
+      };
+
+      var map = new ol.Map({
+        target: "map",
+        layers: [
+          new ol.layer.Tile({
+            source: base.source,
+          }),
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([-95, 45]),
+          zoom: 3,
+        }),
+      });
+
+      var distance = 100000;
+
+      map.on("singleclick", function (evt) {
+        var clearLayers = map.getLayers().getArray();
+        for (var k = clearLayers.length; k >= 0; k--) {
+          if (clearLayers[k] instanceof ol.layer.Vector) {
+            map.removeLayer(clearLayers[k]);
+          }
+        }
+
+        var clickCoordinate = ol.proj.transform(
+          evt.coordinate,
+          "EPSG:3857",
+          "EPSG:4326"
+        );
+
+        var clickLat = clickCoordinate[1];
+        var clickLon = clickCoordinate[0];
+
+        console.log("clickLat : " + clickLat);
+        console.log("clickLon : " + clickLon);
+
+        var circle = new ol.geom.Circle(
+          ol.proj.fromLonLat(clickCoordinate),
+          distance
+        );
+
+        var layer = new ol.layer.Vector({
+          source: new ol.source.Vector({
+            projection: "EPSG:4326",
+            features: [new ol.Feature(circle)],
+          }),
+          style: [
+            new ol.style.Style({
+              stroke: new ol.style.Stroke({
+                color: "green",
+                width: 3,
+              }),
+              fill: new ol.style.Fill({
+                color: "rgba(0, 255, 0, 0.1)",
+              }),
+            }),
+          ],
+        });
+        map.addLayer(layer);
+
+        map.getView().fit(circle, {
+          size: map.getSize(),
+          padding: [25, 25, 25, 25],
+          duration: 1500,
+        });
+      });
+    </script>
+  </body>
+</html>
