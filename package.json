@@ -1,7 +1,7 @@
 {
   "name": "worldle",
   "private": true,
-  "version": "2.0.0",
+  "version": "1.1.0",
   "description": "WORLDle - a geographic take on Wordle",
   "type": "module",
   "engines": {
