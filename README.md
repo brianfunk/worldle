@@ -1,13 +1,33 @@
-# WORLDle
+[![WORLDle](https://img.shields.io/badge/WORLDle-Geographic%20Wordle-14294d.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMjEiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSI0Ii8+PHBhdGggZD0iTTMyIDExdjQyTTExIDMyaDQyTTE3LjUgMjBjOCA1IDIxIDUgMjkgME0xNy41IDQ0YzgtNSAyMS01IDI5IDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyLjUiIG9wYWNpdHk9Ii43Ii8+PGNpcmNsZSBjeD0iNDAuNSIgY3k9IjIzLjUiIHI9IjYiIGZpbGw9IiNlNmFkM2YiLz48L3N2Zz4=)](https://worldle.world)
+[![Play](https://img.shields.io/badge/play-worldle.world-e6ad3f.svg)](https://worldle.world)
+[![Version](https://img.shields.io/github/package-json/v/brianfunk/worldle/main.svg?label=version)](https://github.com/brianfunk/worldle/releases)
+[![CI](https://github.com/brianfunk/worldle/actions/workflows/ci.yml/badge.svg)](https://github.com/brianfunk/worldle/actions/workflows/ci.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53937108-d3c7-49e5-9cd3-f3878707d4f3/deploy-status)](https://app.netlify.com/sites/worldleworld/deploys)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
+[![Semver](https://img.shields.io/badge/SemVer-2.0-blue.svg)](http://semver.org/spec/v2.0.0.html)
+[![License](https://img.shields.io/github/license/brianfunk/worldle.svg)](https://opensource.org/licenses/MIT)
+[![LinkedIn](https://img.shields.io/badge/Linked-In-blue.svg)](https://www.linkedin.com/in/brianrandyfunk)
+
+<p align="center">
+  <a href="https://worldle.world"><img src="public/logo.svg" alt="WORLDle logo" width="120" height="120"></a>
+</p>
+
+<h1 align="center">WORLDle</h1>
+
+<p align="center"><b>A hidden place. Six clicks. Find it on the map.</b><br>
+Play at <a href="https://worldle.world">worldle.world</a></p>
 
 A geographic take on Wordle. A hidden place is somewhere on the map and you have six clicks to find it.
-Every click draws a circle around the spot you clicked: **green** if the place is inside, **red** if not.
-Circles shrink as you go, each click reveals another clue, and clicking close enough to the place wins.
+Every click draws a ring around the spot you clicked: **green** if the place is inside, **red** if not.
+Rings shrink as you go, each click reveals another clue, and clicking close enough to the place wins.
+
+![WORLDle preview](public/og-image.png)
 
 - **Daily puzzle**: everyone gets the same place each day, seeded from the date. The first clue is shown before you click.
 - **Archive**: every past day is playable from the calendar button, with your result shown next to each one.
-- **Map modes**: Easy (place names and a compass bearing), Hard (no labels, no compass), Random (a surprise basemap). Switch any time, even mid-game.
-- **Remembered in your browser**: your map preference, in-progress clicks (a refresh does not lose the game) and finished results live in localStorage. No accounts, no server, no database.
+- **Map modes**: Easy (place names and a compass bearing), Hard (satellite, no labels, no compass), Random (a surprise basemap). Switch any time, even mid-game.
+- **Miles or kilometres**: defaults from your locale, one tap to switch.
+- **Remembered in your browser**: your map preference, unit, in-progress clicks (a refresh does not lose the game) and finished results live in localStorage. No accounts, no server, no database.
 - **120 places**: landmarks, cities and natural wonders across every continent.
 
 Static site: Vite + React + TypeScript, [MapLibre GL](https://maplibre.org/) for the map, free tiles from
@@ -74,6 +94,12 @@ landmarks 2 to 5 km, cities 12 to 20 km, natural wonders 15 to 100 km depending 
 `dev` is the default branch. Branch off `dev` for any change (`feature/...`, `fix/...`), open a pull request back into
 `dev`, and promote `dev` to `main` with a PR when it is ready for production. Netlify can build `main` as production
 and `dev` as a branch deploy for previews.
+
+## Releasing
+
+1. Bump `version` in `package.json` on a branch off `dev` and merge it.
+2. Open a PR from `dev` to `main`. Merging it is the production release.
+3. Tag it: `git tag v1.1.0 && git push origin v1.1.0`, then create a GitHub release from the tag.
 
 ## Deploy
 
