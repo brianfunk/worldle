@@ -1,0 +1,2042 @@
+[
+ {
+  "id": "eiffel-tower",
+  "title": "Eiffel Tower",
+  "category": "landmark",
+  "lon": 2.2945,
+  "lat": 48.8582,
+  "winRadiusKm": 2,
+  "hints": [
+   "A wrought-iron lattice tower finished in 1889",
+   "Built as the entrance arch to a World's Fair",
+   "Critics of the day called it a useless and monstrous eyesore",
+   "Locals nickname it 'the iron lady'",
+   "Stands on a long park called the Champ de Mars",
+   "Found in Paris, France"
+  ],
+  "fact": "At 330 m it was the tallest man-made structure on Earth for 41 years."
+ },
+ {
+  "id": "forbidden-city",
+  "title": "Forbidden City",
+  "category": "landmark",
+  "lon": 116.3972,
+  "lat": 39.9169,
+  "winRadiusKm": 3,
+  "hints": [
+   "A walled palace complex with about 980 buildings",
+   "Home to emperors for nearly 500 years",
+   "Built between 1406 and 1420",
+   "Ordinary people were once barred from entering it",
+   "Sits just north of Tiananmen Square",
+   "Found in Beijing, China"
+  ],
+  "fact": "It now houses the Palace Museum, one of the most visited museums in the world."
+ },
+ {
+  "id": "white-house",
+  "title": "The White House",
+  "category": "landmark",
+  "lon": -77.0365,
+  "lat": 38.8977,
+  "winRadiusKm": 2,
+  "hints": [
+   "An official residence and workplace of a head of state",
+   "Every holder of the office has lived here since 1800",
+   "Burned by the British Army in 1814",
+   "Its most famous room is oval",
+   "The address is 1600 Pennsylvania Avenue",
+   "Found in Washington, D.C., USA"
+  ],
+  "fact": "It has 132 rooms, 35 bathrooms and 28 fireplaces."
+ },
+ {
+  "id": "statue-of-liberty",
+  "title": "Statue of Liberty",
+  "category": "landmark",
+  "lon": -74.0445,
+  "lat": 40.6892,
+  "winRadiusKm": 3,
+  "hints": [
+   "A colossal copper statue that has turned green",
+   "A gift from the people of France in 1886",
+   "Designed by sculptor Bartholdi with an iron frame by Eiffel",
+   "She holds a torch and a tablet dated July 4, 1776",
+   "Stands on a small island in a harbor",
+   "Found in New York City, USA"
+  ],
+  "fact": "The seven rays of her crown represent the seven continents and seas."
+ },
+ {
+  "id": "colosseum",
+  "title": "Colosseum",
+  "category": "landmark",
+  "lon": 12.4924,
+  "lat": 41.8902,
+  "winRadiusKm": 2,
+  "hints": [
+   "The largest ancient amphitheatre ever built",
+   "Could hold some 50,000 to 80,000 spectators",
+   "Completed in AD 80 under Emperor Titus",
+   "Hosted gladiator contests and staged sea battles",
+   "Officially named after the Flavian dynasty",
+   "Found in Rome, Italy"
+  ],
+  "fact": "Earthquakes and stone robbers removed about two-thirds of the original structure."
+ },
+ {
+  "id": "taj-mahal",
+  "title": "Taj Mahal",
+  "category": "landmark",
+  "lon": 78.0421,
+  "lat": 27.1751,
+  "winRadiusKm": 3,
+  "hints": [
+   "An ivory-white marble mausoleum",
+   "Built by a Mughal emperor for his favorite wife",
+   "Construction began in 1632 and took about 20 years",
+   "Its marble changes color with the light of day",
+   "Sits on the bank of the Yamuna River",
+   "Found in Agra, India"
+  ],
+  "fact": "Around 20,000 artisans worked on it, and some 1,000 elephants hauled materials."
+ },
+ {
+  "id": "machu-picchu",
+  "title": "Machu Picchu",
+  "category": "landmark",
+  "lon": -72.545,
+  "lat": -13.1631,
+  "winRadiusKm": 5,
+  "hints": [
+   "A 15th-century citadel high in the mountains",
+   "Built by the Inca and abandoned a century later",
+   "Brought to world attention by Hiram Bingham in 1911",
+   "Famous for dry-stone walls fitted without mortar",
+   "Sits at about 2,430 m above sea level in the Andes",
+   "Found in the Cusco Region of Peru"
+  ],
+  "fact": "The Spanish never found it, which is why it survived largely intact."
+ },
+ {
+  "id": "great-pyramid",
+  "title": "Great Pyramid of Giza",
+  "category": "landmark",
+  "lon": 31.1342,
+  "lat": 29.9792,
+  "winRadiusKm": 3,
+  "hints": [
+   "The oldest of the Seven Wonders of the Ancient World",
+   "The only one still largely intact",
+   "Built as a tomb for the pharaoh Khufu around 2560 BC",
+   "Made of about 2.3 million stone blocks",
+   "A giant sphinx stands guard nearby",
+   "Found on the Giza plateau outside Cairo, Egypt"
+  ],
+  "fact": "It was the tallest human-made structure for more than 3,800 years."
+ },
+ {
+  "id": "christ-the-redeemer",
+  "title": "Christ the Redeemer",
+  "category": "landmark",
+  "lon": -43.2105,
+  "lat": -22.9519,
+  "winRadiusKm": 3,
+  "hints": [
+   "A 30 m Art Deco statue on a mountain top",
+   "Completed in 1931 and made of reinforced concrete and soapstone",
+   "Its arms stretch 28 m wide",
+   "Stands on the summit of Mount Corcovado",
+   "Overlooks a famous beach city and Sugarloaf Mountain",
+   "Found in Rio de Janeiro, Brazil"
+  ],
+  "fact": "Lightning strikes the statue several times a year and once chipped a thumb."
+ },
+ {
+  "id": "sydney-opera-house",
+  "title": "Sydney Opera House",
+  "category": "landmark",
+  "lon": 151.2153,
+  "lat": -33.8568,
+  "winRadiusKm": 2,
+  "hints": [
+   "A performing arts centre with sail-shaped shells",
+   "Designed by Danish architect Jørn Utzon",
+   "Opened in 1973, ten years late and 14 times over budget",
+   "More than a million roof tiles cover it",
+   "Sits on Bennelong Point beside a famous harbour bridge",
+   "Found in Sydney, Australia"
+  ],
+  "fact": "Utzon left the project in 1966 and never returned to see it finished."
+ },
+ {
+  "id": "big-ben",
+  "title": "Big Ben",
+  "category": "landmark",
+  "lon": -0.1246,
+  "lat": 51.5007,
+  "winRadiusKm": 2,
+  "hints": [
+   "A clock tower at the end of a parliament building",
+   "The nickname refers to the great bell inside",
+   "Officially renamed the Elizabeth Tower in 2012",
+   "Its four clock faces are each 7 m across",
+   "Stands beside the River Thames",
+   "Found in London, England"
+  ],
+  "fact": "The tower leans about 0.26 degrees, visible to the naked eye from some angles."
+ },
+ {
+  "id": "golden-gate-bridge",
+  "title": "Golden Gate Bridge",
+  "category": "landmark",
+  "lon": -122.4783,
+  "lat": 37.8199,
+  "winRadiusKm": 3,
+  "hints": [
+   "A suspension bridge painted 'International Orange'",
+   "Opened in 1937 across a strait",
+   "Was the longest main span in the world for 27 years",
+   "Frequently wrapped in fog",
+   "Connects a famous city to Marin County",
+   "Found in San Francisco, USA"
+  ],
+  "fact": "The color was originally just a primer; the architect liked it and kept it."
+ },
+ {
+  "id": "acropolis",
+  "title": "Acropolis of Athens",
+  "category": "landmark",
+  "lon": 23.7257,
+  "lat": 37.9715,
+  "winRadiusKm": 2,
+  "hints": [
+   "An ancient citadel on a rocky outcrop above a capital",
+   "Its most famous building is a temple to a virgin goddess",
+   "Most of the monuments date to the 5th century BC",
+   "Lord Elgin removed many of its marbles in the 1800s",
+   "The temple is the Parthenon",
+   "Found in Athens, Greece"
+  ],
+  "fact": "The Parthenon served as a church, a mosque, and a gunpowder store before becoming a ruin."
+ },
+ {
+  "id": "petra",
+  "title": "Petra",
+  "category": "landmark",
+  "lon": 35.4444,
+  "lat": 30.3285,
+  "winRadiusKm": 5,
+  "hints": [
+   "An ancient city carved into rose-red sandstone cliffs",
+   "Capital of the Nabataean kingdom around the 4th century BC",
+   "Reached through a narrow gorge called the Siq",
+   "Its most famous facade is 'The Treasury'",
+   "Featured in Indiana Jones and the Last Crusade",
+   "Found in southern Jordan"
+  ],
+  "fact": "Rediscovered for the Western world by Swiss explorer Johann Burckhardt in 1812."
+ },
+ {
+  "id": "angkor-wat",
+  "title": "Angkor Wat",
+  "category": "landmark",
+  "lon": 103.867,
+  "lat": 13.4125,
+  "winRadiusKm": 5,
+  "hints": [
+   "The largest religious monument in the world",
+   "Built in the early 12th century as a Hindu temple",
+   "Later converted to a Buddhist temple",
+   "Surrounded by a moat and appears on a national flag",
+   "Near the town of Siem Reap",
+   "Found in Cambodia"
+  ],
+  "fact": "Its five towers represent the peaks of Mount Meru, home of the gods."
+ },
+ {
+  "id": "chichen-itza",
+  "title": "Chichén Itzá",
+  "category": "landmark",
+  "lon": -88.5678,
+  "lat": 20.6843,
+  "winRadiusKm": 5,
+  "hints": [
+   "A pre-Columbian city built by the Maya",
+   "Its step pyramid is called El Castillo",
+   "At the equinox a shadow serpent slithers down its stairs",
+   "Has a great ball court 168 m long",
+   "Lies on the Yucatán Peninsula",
+   "Found in Mexico"
+  ],
+  "fact": "Clap at the base of the pyramid and the echo sounds like the chirp of a quetzal bird."
+ },
+ {
+  "id": "great-wall-badaling",
+  "title": "Great Wall at Badaling",
+  "category": "landmark",
+  "lon": 116.0167,
+  "lat": 40.3594,
+  "winRadiusKm": 10,
+  "hints": [
+   "The most visited section of a very long wall",
+   "Built to protect against nomadic raids from the north",
+   "Most of the surviving stone wall dates from the Ming dynasty",
+   "Contrary to legend, it is not visible from space with the naked eye",
+   "About 80 km northwest of a capital city",
+   "Found near Beijing, China"
+  ],
+  "fact": "All branches of the wall together run more than 21,000 km."
+ },
+ {
+  "id": "stonehenge",
+  "title": "Stonehenge",
+  "category": "landmark",
+  "lon": -1.8262,
+  "lat": 51.1789,
+  "winRadiusKm": 5,
+  "hints": [
+   "A prehistoric ring of standing stones",
+   "Built in stages from about 3000 BC",
+   "Aligned with the sunrise on the summer solstice",
+   "Some of its bluestones came from Wales, 250 km away",
+   "Stands on Salisbury Plain",
+   "Found in Wiltshire, England"
+  ],
+  "fact": "Each of the large sarsen stones weighs about 25 tonnes."
+ },
+ {
+  "id": "neuschwanstein",
+  "title": "Neuschwanstein Castle",
+  "category": "landmark",
+  "lon": 10.7498,
+  "lat": 47.5576,
+  "winRadiusKm": 3,
+  "hints": [
+   "A 19th-century hilltop castle built for a 'mad' king",
+   "Commissioned by Ludwig II of Bavaria in 1869",
+   "He lived there only 172 days before his mysterious death",
+   "Inspired the Sleeping Beauty castle at Disneyland",
+   "Sits above the village of Hohenschwangau in the Alps",
+   "Found in Bavaria, Germany"
+  ],
+  "fact": "Ludwig built it as a private refuge; it opened to paying visitors seven weeks after he died."
+ },
+ {
+  "id": "sagrada-familia",
+  "title": "Sagrada Família",
+  "category": "landmark",
+  "lon": 2.1744,
+  "lat": 41.4036,
+  "winRadiusKm": 2,
+  "hints": [
+   "A basilica under construction since 1882",
+   "Designed by architect Antoni Gaudí",
+   "Gaudí is buried in its crypt",
+   "When finished it will have 18 spires",
+   "Its nativity and passion facades are strikingly different",
+   "Found in Barcelona, Spain"
+  ],
+  "fact": "Gaudí said 'My client is not in a hurry' when asked about the building timeline."
+ },
+ {
+  "id": "burj-khalifa",
+  "title": "Burj Khalifa",
+  "category": "landmark",
+  "lon": 55.2744,
+  "lat": 25.1972,
+  "winRadiusKm": 2,
+  "hints": [
+   "The tallest building in the world since 2009",
+   "Rises 828 m with more than 160 floors",
+   "Its design is based on a desert flower",
+   "Stands beside the world's largest dancing fountain",
+   "Was renamed for a neighboring emirate's ruler at opening",
+   "Found in Dubai, UAE"
+  ],
+  "fact": "Residents on the top floors see the sun set a few minutes later than those at ground level."
+ },
+ {
+  "id": "mount-rushmore",
+  "title": "Mount Rushmore",
+  "category": "landmark",
+  "lon": -103.4591,
+  "lat": 43.8791,
+  "winRadiusKm": 5,
+  "hints": [
+   "Four 18 m heads carved into a granite mountain",
+   "Sculptor Gutzon Borglum worked on it from 1927 to 1941",
+   "The faces are Washington, Jefferson, Roosevelt, and Lincoln",
+   "Behind the heads is an unfinished 'Hall of Records'",
+   "Located in the Black Hills",
+   "Found in South Dakota, USA"
+  ],
+  "fact": "About 90% of the carving was done with dynamite."
+ },
+ {
+  "id": "hagia-sophia",
+  "title": "Hagia Sophia",
+  "category": "landmark",
+  "lon": 28.9802,
+  "lat": 41.0086,
+  "winRadiusKm": 2,
+  "hints": [
+   "A domed building that has been a church, a mosque, a museum, and a mosque again",
+   "Completed in 537 under Emperor Justinian",
+   "Was the largest cathedral in the world for nearly 1,000 years",
+   "Its name means 'Holy Wisdom'",
+   "Stands across from the Blue Mosque",
+   "Found in Istanbul, Turkey"
+  ],
+  "fact": "Its central dome is 31 m across and seems to float on a ring of 40 windows."
+ },
+ {
+  "id": "moai-easter-island",
+  "title": "Moai of Easter Island",
+  "category": "landmark",
+  "lon": -109.3497,
+  "lat": -27.1127,
+  "winRadiusKm": 20,
+  "hints": [
+   "Nearly 900 giant stone heads on a remote island",
+   "Carved by the Rapa Nui people between 1250 and 1500",
+   "Most were quarried at the volcano Rano Raraku",
+   "Many have full bodies buried beneath the ground",
+   "One of the most isolated inhabited islands on Earth",
+   "Found on Easter Island, Chile"
+  ],
+  "fact": "The largest statue ever moved weighs 82 tonnes; one left unfinished in the quarry would weigh 270."
+ },
+ {
+  "id": "leaning-tower-pisa",
+  "title": "Leaning Tower of Pisa",
+  "category": "landmark",
+  "lon": 10.3966,
+  "lat": 43.723,
+  "winRadiusKm": 2,
+  "hints": [
+   "A freestanding bell tower that famously tilts",
+   "Began leaning during construction in the 12th century because of soft ground",
+   "Took 199 years to complete",
+   "Engineers reduced the lean by 45 cm in the 1990s",
+   "Stands in the Piazza dei Miracoli",
+   "Found in Pisa, Italy"
+  ],
+  "fact": "Galileo is said to have dropped cannonballs from it to test gravity."
+ },
+ {
+  "id": "alhambra",
+  "title": "Alhambra",
+  "category": "landmark",
+  "lon": -3.588,
+  "lat": 37.1761,
+  "winRadiusKm": 2,
+  "hints": [
+   "A palace and fortress complex on a hill",
+   "Built mostly by the Nasrid dynasty in the 13th and 14th centuries",
+   "Famous for its intricate Islamic plasterwork and courtyards",
+   "Its name means 'the red one' in Arabic",
+   "Overlooks a city in Andalusia",
+   "Found in Granada, Spain"
+  ],
+  "fact": "The Court of the Lions fountain once worked as a water clock."
+ },
+ {
+  "id": "kremlin",
+  "title": "Moscow Kremlin",
+  "category": "landmark",
+  "lon": 37.6175,
+  "lat": 55.752,
+  "winRadiusKm": 2,
+  "hints": [
+   "A fortified complex that is the seat of a national government",
+   "Its red brick walls were built in the 1480s by Italian architects",
+   "Contains cathedrals, palaces, and the world's largest bell",
+   "Faces an onion-domed cathedral across a famous square",
+   "That square is called Red Square",
+   "Found in Moscow, Russia"
+  ],
+  "fact": "The Tsar Bell, at 202 tonnes, cracked before it was ever rung."
+ },
+ {
+  "id": "brandenburg-gate",
+  "title": "Brandenburg Gate",
+  "category": "landmark",
+  "lon": 13.3777,
+  "lat": 52.5163,
+  "winRadiusKm": 2,
+  "hints": [
+   "An 18th-century neoclassical city gate",
+   "Topped by a four-horse chariot driven by the goddess of victory",
+   "Napoleon took the chariot to Paris in 1806",
+   "Stood just inside a dividing wall from 1961 to 1989",
+   "At the end of the boulevard Unter den Linden",
+   "Found in Berlin, Germany"
+  ],
+  "fact": "Ronald Reagan said 'tear down this wall' from a podium just in front of it."
+ },
+ {
+  "id": "tower-bridge",
+  "title": "Tower Bridge",
+  "category": "landmark",
+  "lon": -0.0754,
+  "lat": 51.5055,
+  "winRadiusKm": 2,
+  "hints": [
+   "A bascule and suspension bridge opened in 1894",
+   "Its two towers are linked by high-level walkways",
+   "The road deck lifts about 800 times a year",
+   "Often mistaken for a plainer bridge upstream",
+   "Named for a nearby medieval fortress",
+   "Found in London, England"
+  ],
+  "fact": "In 1952 a bus had to jump the gap when the bridge began to open with it still on the deck."
+ },
+ {
+  "id": "versailles",
+  "title": "Palace of Versailles",
+  "category": "landmark",
+  "lon": 2.1204,
+  "lat": 48.8049,
+  "winRadiusKm": 3,
+  "hints": [
+   "A royal palace that began as a hunting lodge",
+   "Louis XIV moved his court here in 1682",
+   "Has a 73 m Hall of Mirrors",
+   "The treaty ending the First World War was signed here",
+   "About 20 km southwest of a capital",
+   "Found near Paris, France"
+  ],
+  "fact": "The gardens contain more than 50 fountains and 600 jets of water."
+ },
+ {
+  "id": "louvre",
+  "title": "The Louvre",
+  "category": "landmark",
+  "lon": 2.3364,
+  "lat": 48.8606,
+  "winRadiusKm": 2,
+  "hints": [
+   "The most visited museum in the world",
+   "Began as a 12th-century fortress, then a royal palace",
+   "Its glass pyramid entrance opened in 1989",
+   "Home to the Venus de Milo and the Winged Victory",
+   "Also home to a small, smiling portrait by Leonardo",
+   "Found in Paris, France"
+  ],
+  "fact": "Seeing every piece for 30 seconds each would take about 100 days."
+ },
+ {
+  "id": "blue-mosque",
+  "title": "Blue Mosque",
+  "category": "landmark",
+  "lon": 28.9768,
+  "lat": 41.0054,
+  "winRadiusKm": 2,
+  "hints": [
+   "A 17th-century mosque with six minarets",
+   "Named for the blue İznik tiles inside",
+   "Officially called the Sultan Ahmed Mosque",
+   "Six minarets caused a scandal, matching Mecca at the time",
+   "Faces an ancient domed basilica across a park",
+   "Found in Istanbul, Turkey"
+  ],
+  "fact": "More than 20,000 handmade ceramic tiles decorate its interior."
+ },
+ {
+  "id": "cn-tower",
+  "title": "CN Tower",
+  "category": "landmark",
+  "lon": -79.3871,
+  "lat": 43.6426,
+  "winRadiusKm": 2,
+  "hints": [
+   "A 553 m concrete communications and observation tower",
+   "The tallest free-standing structure in the world from 1976 to 2007",
+   "Has a glass floor 342 m up",
+   "Visitors can walk hands-free around the outside edge",
+   "Beside a domed baseball stadium",
+   "Found in Toronto, Canada"
+  ],
+  "fact": "The 'CN' stands for Canadian National, the railway that built it."
+ },
+ {
+  "id": "space-needle",
+  "title": "Space Needle",
+  "category": "landmark",
+  "lon": -122.3493,
+  "lat": 47.6205,
+  "winRadiusKm": 2,
+  "hints": [
+   "A 184 m observation tower with a flying-saucer top",
+   "Built for the 1962 World's Fair",
+   "Designed to withstand 9.0 earthquakes and 320 km/h winds",
+   "Its colors at opening included 'Galaxy Gold' and 'Orbital Olive'",
+   "In a rainy Pacific Northwest city",
+   "Found in Seattle, USA"
+  ],
+  "fact": "Its elevators slow down in high winds, taking a leisurely ride to the top."
+ },
+ {
+  "id": "gateway-arch",
+  "title": "Gateway Arch",
+  "category": "landmark",
+  "lon": -90.1848,
+  "lat": 38.6247,
+  "winRadiusKm": 2,
+  "hints": [
+   "A 192 m stainless steel arch",
+   "The tallest man-made monument in the Western Hemisphere",
+   "Designed by Eero Saarinen and completed in 1965",
+   "Commemorates westward expansion of the United States",
+   "Stands on the bank of the Mississippi River",
+   "Found in St. Louis, USA"
+  ],
+  "fact": "It is exactly as wide as it is tall: 630 feet."
+ },
+ {
+  "id": "hollywood-sign",
+  "title": "Hollywood Sign",
+  "category": "landmark",
+  "lon": -118.3215,
+  "lat": 34.1341,
+  "winRadiusKm": 3,
+  "hints": [
+   "Nine white letters, each 14 m tall, on a hillside",
+   "Erected in 1923 as an advertisement for a housing development",
+   "Originally read 'Hollywoodland'",
+   "Restored in 1978 with donations from celebrities",
+   "Overlooks the film capital of the world",
+   "Found in Los Angeles, USA"
+  ],
+  "fact": "Hugh Hefner bought the letter Y in the 1978 fundraiser; Alice Cooper bought an O."
+ },
+ {
+  "id": "alcatraz",
+  "title": "Alcatraz Island",
+  "category": "landmark",
+  "lon": -122.423,
+  "lat": 37.827,
+  "winRadiusKm": 2,
+  "hints": [
+   "A small island prison that closed in 1963",
+   "Housed Al Capone and 'the Birdman'",
+   "No confirmed escape ever succeeded",
+   "Occupied by Native American activists from 1969 to 1971",
+   "Sits in a bay near an orange bridge",
+   "Found in San Francisco Bay, USA"
+  ],
+  "fact": "The name comes from the Spanish for 'pelicans'."
+ },
+ {
+  "id": "potala-palace",
+  "title": "Potala Palace",
+  "category": "landmark",
+  "lon": 91.1172,
+  "lat": 29.6578,
+  "winRadiusKm": 3,
+  "hints": [
+   "A 13-storey fortress-palace on a mountainside",
+   "Winter residence of the Dalai Lamas from 1649 to 1959",
+   "Contains over 1,000 rooms and 200,000 statues",
+   "Stands at about 3,700 m above sea level",
+   "Overlooks a city on the Tibetan Plateau",
+   "Found in Lhasa, Tibet"
+  ],
+  "fact": "Its walls are up to 5 m thick and were strengthened with molten copper against earthquakes."
+ },
+ {
+  "id": "borobudur",
+  "title": "Borobudur",
+  "category": "landmark",
+  "lon": 110.2038,
+  "lat": -7.6079,
+  "winRadiusKm": 5,
+  "hints": [
+   "The world's largest Buddhist temple",
+   "Built in the 9th century and later abandoned beneath volcanic ash",
+   "Has 504 Buddha statues and 2,672 relief panels",
+   "Shaped like a giant stepped mandala",
+   "On the island of Java",
+   "Found in Indonesia"
+  ],
+  "fact": "Pilgrims walk clockwise up its nine levels, a path of about 5 km."
+ },
+ {
+  "id": "himeji-castle",
+  "title": "Himeji Castle",
+  "category": "landmark",
+  "lon": 134.6939,
+  "lat": 34.8394,
+  "winRadiusKm": 3,
+  "hints": [
+   "A hilltop castle with brilliant white plaster walls",
+   "Nicknamed the 'White Heron Castle'",
+   "Survived WWII bombing and the 1995 Kobe earthquake",
+   "Its present form dates from 1609",
+   "Considered the finest surviving example of its country's castle architecture",
+   "Found in Hyōgo Prefecture, Japan"
+  ],
+  "fact": "A firebomb landed on the top floor during the war but failed to explode."
+ },
+ {
+  "id": "fushimi-inari",
+  "title": "Fushimi Inari Shrine",
+  "category": "landmark",
+  "lon": 135.7727,
+  "lat": 34.9671,
+  "winRadiusKm": 3,
+  "hints": [
+   "A shrine famous for thousands of vermilion gates",
+   "Each gate was donated by a business",
+   "Dedicated to the god of rice and foxes",
+   "The trails climb a 233 m sacred mountain",
+   "In the former imperial capital of its country",
+   "Found in Kyoto, Japan"
+  ],
+  "fact": "There are about 10,000 torii gates along the trails."
+ },
+ {
+  "id": "petronas-towers",
+  "title": "Petronas Towers",
+  "category": "landmark",
+  "lon": 101.7117,
+  "lat": 3.1579,
+  "winRadiusKm": 2,
+  "hints": [
+   "Twin skyscrapers joined by a sky bridge",
+   "The tallest buildings in the world from 1998 to 2004",
+   "Floor plans are based on an eight-pointed Islamic star",
+   "Named for a national oil company",
+   "In a Southeast Asian capital",
+   "Found in Kuala Lumpur, Malaysia"
+  ],
+  "fact": "Each tower was built by a different contractor racing the other."
+ },
+ {
+  "id": "marina-bay-sands",
+  "title": "Marina Bay Sands",
+  "category": "landmark",
+  "lon": 103.8607,
+  "lat": 1.2834,
+  "winRadiusKm": 2,
+  "hints": [
+   "Three hotel towers topped by a ship-shaped sky park",
+   "Opened in 2010 and has a 150 m rooftop infinity pool",
+   "Designed by architect Moshe Safdie",
+   "Faces a lion-fish statue across the water",
+   "In a city-state at the tip of a peninsula",
+   "Found in Singapore"
+  ],
+  "fact": "The SkyPark cantilevers 67 m beyond the towers, one of the longest in the world."
+ },
+ {
+  "id": "wat-arun",
+  "title": "Wat Arun",
+  "category": "landmark",
+  "lon": 100.4889,
+  "lat": 13.7437,
+  "winRadiusKm": 2,
+  "hints": [
+   "A riverside temple with a tall porcelain-covered spire",
+   "Known as the Temple of Dawn",
+   "Its central prang is decorated with broken Chinese porcelain",
+   "Stands on the west bank of the Chao Phraya River",
+   "Across from the Grand Palace",
+   "Found in Bangkok, Thailand"
+  ],
+  "fact": "It is named after Aruna, the Hindu god of dawn."
+ },
+ {
+  "id": "sheikh-zayed-mosque",
+  "title": "Sheikh Zayed Grand Mosque",
+  "category": "landmark",
+  "lon": 54.475,
+  "lat": 24.4128,
+  "winRadiusKm": 3,
+  "hints": [
+   "A white marble mosque with 82 domes",
+   "Completed in 2007 and holds 40,000 worshippers",
+   "Contains the world's largest hand-knotted carpet",
+   "Its chandeliers are studded with Swarovski crystals",
+   "Named for the founding father of its country",
+   "Found in Abu Dhabi, UAE"
+  ],
+  "fact": "The carpet weighs 35 tonnes and took 1,200 artisans two years to make."
+ },
+ {
+  "id": "table-mountain-cable",
+  "title": "Table Mountain",
+  "category": "landmark",
+  "lon": 18.4098,
+  "lat": -33.9628,
+  "winRadiusKm": 5,
+  "hints": [
+   "A flat-topped mountain that looms over a port city",
+   "A cable car has run to the top since 1929",
+   "Often draped in a cloud 'tablecloth'",
+   "Home to more plant species than the whole of Britain",
+   "One of the New7Wonders of Nature",
+   "Found in Cape Town, South Africa"
+  ],
+  "fact": "It is one of the oldest mountains on Earth, around 260 million years old."
+ },
+ {
+  "id": "pyramid-of-the-sun",
+  "title": "Pyramid of the Sun, Teotihuacan",
+  "category": "landmark",
+  "lon": -98.8438,
+  "lat": 19.6925,
+  "winRadiusKm": 5,
+  "hints": [
+   "The third-largest pyramid in the world",
+   "Built around AD 200 by a culture whose name is unknown",
+   "Aligned along a broad 'Avenue of the Dead'",
+   "The Aztecs later named the city 'place where gods were born'",
+   "About 40 km northeast of a huge capital",
+   "Found near Mexico City, Mexico"
+  ],
+  "fact": "At its peak the city held perhaps 125,000 people, among the largest in the world."
+ },
+ {
+  "id": "hoover-dam",
+  "title": "Hoover Dam",
+  "category": "landmark",
+  "lon": -114.7377,
+  "lat": 36.0161,
+  "winRadiusKm": 3,
+  "hints": [
+   "A 221 m concrete arch-gravity dam completed in 1936",
+   "Built during the Great Depression by thousands of workers",
+   "Created the largest reservoir in the United States",
+   "Straddles the border of two states and two time zones",
+   "On the Colorado River in Black Canyon",
+   "Found between Nevada and Arizona, USA"
+  ],
+  "fact": "The concrete is still curing and generating heat decades after it was poured."
+ },
+ {
+  "id": "panama-canal-miraflores",
+  "title": "Panama Canal (Miraflores Locks)",
+  "category": "landmark",
+  "lon": -79.5917,
+  "lat": 8.9967,
+  "winRadiusKm": 5,
+  "hints": [
+   "A set of locks on a famous ship canal",
+   "The canal opened in 1914 and joins two oceans",
+   "Ships are lifted 26 m to a man-made lake",
+   "Expanded with wider locks in 2016",
+   "On the Pacific end of the waterway",
+   "Found in Panama"
+  ],
+  "fact": "Because of the isthmus's curve, ships travel from the Atlantic to the Pacific heading southeast."
+ },
+ {
+  "id": "meteora",
+  "title": "Meteora",
+  "category": "landmark",
+  "lon": 21.6306,
+  "lat": 39.7217,
+  "winRadiusKm": 5,
+  "hints": [
+   "Monasteries perched on top of giant sandstone pillars",
+   "Monks first climbed the rocks in the 11th century",
+   "Six of the original 24 monasteries are still active",
+   "Supplies were once hauled up in nets and baskets",
+   "The name means 'suspended in the air'",
+   "Found in Thessaly, Greece"
+  ],
+  "fact": "A James Bond villain's lair was filmed here in 'For Your Eyes Only'."
+ },
+ {
+  "id": "tokyo",
+  "title": "Tokyo",
+  "category": "city",
+  "lon": 139.6917,
+  "lat": 35.6895,
+  "winRadiusKm": 20,
+  "hints": [
+   "The most populous metropolitan area in the world",
+   "Formerly called Edo",
+   "Became the capital in 1868",
+   "Home to the world's busiest pedestrian crossing",
+   "Hosted the Summer Olympics in 1964 and 2021",
+   "The capital of Japan"
+  ],
+  "fact": "Its Tsukiji and Toyosu fish markets have handled single tuna sold for over $3 million."
+ },
+ {
+  "id": "new-york",
+  "title": "New York City",
+  "category": "city",
+  "lon": -74.006,
+  "lat": 40.7128,
+  "winRadiusKm": 15,
+  "hints": [
+   "A city of five boroughs",
+   "Bought from Native Americans for goods worth about 60 guilders, legend says",
+   "Originally named New Amsterdam",
+   "Home to the United Nations headquarters",
+   "Nicknamed the Big Apple",
+   "The largest city in the USA"
+  ],
+  "fact": "More than 800 languages are spoken here, the most of any city on Earth."
+ },
+ {
+  "id": "london",
+  "title": "London",
+  "category": "city",
+  "lon": -0.1276,
+  "lat": 51.5072,
+  "winRadiusKm": 15,
+  "hints": [
+   "Founded by the Romans as Londinium",
+   "Rebuilt after a great fire in 1666",
+   "Has the world's oldest underground railway",
+   "Hosted the Summer Olympics three times",
+   "Straddles the River Thames",
+   "The capital of the United Kingdom"
+  ],
+  "fact": "The 'Big Smoke' had smogs so thick in 1952 that one killed an estimated 12,000 people."
+ },
+ {
+  "id": "paris",
+  "title": "Paris",
+  "category": "city",
+  "lon": 2.3522,
+  "lat": 48.8566,
+  "winRadiusKm": 15,
+  "hints": [
+   "Nicknamed the City of Light",
+   "Its 20 districts spiral outward like a snail shell",
+   "Rebuilt with wide boulevards by Baron Haussmann in the 1800s",
+   "Home to the most visited museum in the world",
+   "Built around an island in the Seine",
+   "The capital of France"
+  ],
+  "fact": "There is only one stop sign in the entire city."
+ },
+ {
+  "id": "cairo",
+  "title": "Cairo",
+  "category": "city",
+  "lon": 31.2357,
+  "lat": 30.0444,
+  "winRadiusKm": 20,
+  "hints": [
+   "The largest city in Africa and the Arab world",
+   "Founded in AD 969 by the Fatimid dynasty",
+   "Nicknamed the City of a Thousand Minarets",
+   "Ancient pyramids stand on its western edge",
+   "Sits on the Nile just upstream of its delta",
+   "The capital of Egypt"
+  ],
+  "fact": "Its name in Arabic, al-Qāhirah, means 'the Vanquisher'."
+ },
+ {
+  "id": "rio-de-janeiro",
+  "title": "Rio de Janeiro",
+  "category": "city",
+  "lon": -43.1729,
+  "lat": -22.9068,
+  "winRadiusKm": 20,
+  "hints": [
+   "Famous for a giant carnival and a giant statue",
+   "Portuguese explorers mistook its bay for a river mouth in January 1502",
+   "Was a national capital until 1960",
+   "Home to Copacabana and Ipanema beaches",
+   "Hosted the 2016 Summer Olympics",
+   "The second-largest city in Brazil"
+  ],
+  "fact": "Its name means 'River of January' even though there is no river."
+ },
+ {
+  "id": "sydney",
+  "title": "Sydney",
+  "category": "city",
+  "lon": 151.2093,
+  "lat": -33.8688,
+  "winRadiusKm": 20,
+  "hints": [
+   "Founded in 1788 as a British penal colony",
+   "Its harbour is one of the largest natural harbours in the world",
+   "Home to Bondi Beach",
+   "Hosted the 2000 Summer Olympics",
+   "Often mistaken for its country's capital",
+   "The largest city in Australia"
+  ],
+  "fact": "Its harbour bridge is nicknamed 'the Coathanger'."
+ },
+ {
+  "id": "istanbul",
+  "title": "Istanbul",
+  "category": "city",
+  "lon": 28.9784,
+  "lat": 41.0082,
+  "winRadiusKm": 20,
+  "hints": [
+   "The only major city on two continents",
+   "Formerly Byzantium, then Constantinople",
+   "Capital of the Roman, Byzantine, and Ottoman empires",
+   "Its Grand Bazaar has more than 4,000 shops",
+   "Split by a strait called the Bosphorus",
+   "The largest city in Turkey"
+  ],
+  "fact": "Despite its size, it is not the capital; that is Ankara."
+ },
+ {
+  "id": "mumbai",
+  "title": "Mumbai",
+  "category": "city",
+  "lon": 72.8777,
+  "lat": 19.076,
+  "winRadiusKm": 20,
+  "hints": [
+   "Built on seven islands joined by land reclamation",
+   "Formerly called Bombay",
+   "Home to the Bollywood film industry",
+   "Its 'dabbawalas' deliver 200,000 lunchboxes a day",
+   "On the Arabian Sea coast",
+   "The largest city in India"
+  ],
+  "fact": "A single home here, Antilia, is 27 storeys tall and valued at over $1 billion."
+ },
+ {
+  "id": "mexico-city",
+  "title": "Mexico City",
+  "category": "city",
+  "lon": -99.1332,
+  "lat": 19.4326,
+  "winRadiusKm": 20,
+  "hints": [
+   "Built on the ruins of the Aztec capital Tenochtitlan",
+   "Stands on a drained lake bed and is sinking up to 50 cm a year",
+   "At 2,240 m, one of the highest major cities",
+   "Hosted the 1968 Summer Olympics",
+   "Home to the largest cathedral in the Americas",
+   "The capital of Mexico"
+  ],
+  "fact": "The Aztecs founded it where they saw an eagle eating a snake on a cactus, now the national emblem."
+ },
+ {
+  "id": "moscow",
+  "title": "Moscow",
+  "category": "city",
+  "lon": 37.6173,
+  "lat": 55.7558,
+  "winRadiusKm": 20,
+  "hints": [
+   "The most populous city entirely in Europe",
+   "Its metro stations are famous for chandeliers and mosaics",
+   "Napoleon occupied it in 1812 and found it on fire",
+   "Has more billionaires than almost any other city",
+   "Home to a famous fortress and onion-domed cathedral",
+   "The capital of Russia"
+  ],
+  "fact": "Its metro carries more than 6 million passengers a day."
+ },
+ {
+  "id": "beijing",
+  "title": "Beijing",
+  "category": "city",
+  "lon": 116.4074,
+  "lat": 39.9042,
+  "winRadiusKm": 20,
+  "hints": [
+   "A capital for most of the last 800 years",
+   "Its name means 'Northern Capital'",
+   "The only city to host both Summer and Winter Olympics",
+   "Home to the largest public square in the world",
+   "Its old centre is a grid of hutong alleys",
+   "The capital of China"
+  ],
+  "fact": "Its historic centre was laid out on a north-south axis nearly 8 km long."
+ },
+ {
+  "id": "buenos-aires",
+  "title": "Buenos Aires",
+  "category": "city",
+  "lon": -58.3816,
+  "lat": -34.6037,
+  "winRadiusKm": 20,
+  "hints": [
+   "The birthplace of tango",
+   "Its name means 'fair winds'",
+   "Has the widest avenue in the world, 9 de Julio",
+   "Home to a famous cemetery where Eva Perón is buried",
+   "On the Río de la Plata estuary",
+   "The capital of Argentina"
+  ],
+  "fact": "It has more bookshops per person than any other city in the world."
+ },
+ {
+  "id": "cape-town",
+  "title": "Cape Town",
+  "category": "city",
+  "lon": 18.4241,
+  "lat": -33.9249,
+  "winRadiusKm": 20,
+  "hints": [
+   "Founded in 1652 as a supply station for Dutch ships",
+   "Nelson Mandela was imprisoned on an island in its bay",
+   "Overlooked by a flat-topped mountain",
+   "Its Bo-Kaap district is famous for brightly painted houses",
+   "One of three national capitals",
+   "The legislative capital of South Africa"
+  ],
+  "fact": "Robben Island's name comes from the Dutch word for seals."
+ },
+ {
+  "id": "singapore-city",
+  "title": "Singapore",
+  "category": "city",
+  "lon": 103.8198,
+  "lat": 1.3521,
+  "winRadiusKm": 15,
+  "hints": [
+   "A city-state founded as a trading post by Stamford Raffles in 1819",
+   "Expelled from a neighboring federation in 1965",
+   "Chewing gum sales have been banned since 1992",
+   "Has one of the busiest ports in the world",
+   "Lies just 137 km north of the equator",
+   "An island nation at the tip of the Malay Peninsula"
+  ],
+  "fact": "Its name means 'Lion City', though lions have never lived there."
+ },
+ {
+  "id": "hong-kong",
+  "title": "Hong Kong",
+  "category": "city",
+  "lon": 114.1694,
+  "lat": 22.3193,
+  "winRadiusKm": 15,
+  "hints": [
+   "A former British colony handed over in 1997",
+   "Has more skyscrapers than any other city",
+   "Its name means 'fragrant harbour'",
+   "Famous for a tram up to Victoria Peak",
+   "Its Star Ferry has crossed the harbour since 1888",
+   "A special administrative region of China"
+  ],
+  "fact": "Its airport was built on an island made by flattening two existing islands."
+ },
+ {
+  "id": "dubai",
+  "title": "Dubai",
+  "category": "city",
+  "lon": 55.2708,
+  "lat": 25.2048,
+  "winRadiusKm": 20,
+  "hints": [
+   "A desert city that was a pearl-diving village a century ago",
+   "Home to the world's tallest building",
+   "Built artificial islands shaped like palm trees",
+   "Has an indoor ski slope in a shopping mall",
+   "On the Persian Gulf",
+   "The largest city in the United Arab Emirates"
+  ],
+  "fact": "Only about 15% of its residents are citizens of the country."
+ },
+ {
+  "id": "rome",
+  "title": "Rome",
+  "category": "city",
+  "lon": 12.4964,
+  "lat": 41.9028,
+  "winRadiusKm": 15,
+  "hints": [
+   "Legend says it was founded in 753 BC by twins raised by a wolf",
+   "Known as the Eternal City",
+   "Contains an entire sovereign state within its borders",
+   "Has more than 2,000 fountains",
+   "Built on seven hills beside the Tiber",
+   "The capital of Italy"
+  ],
+  "fact": "About 3,000 euros a day are thrown into the Trevi Fountain and donated to charity."
+ },
+ {
+  "id": "bangkok",
+  "title": "Bangkok",
+  "category": "city",
+  "lon": 100.5018,
+  "lat": 13.7563,
+  "winRadiusKm": 20,
+  "hints": [
+   "Its full ceremonial name is 168 letters long",
+   "Known for tuk-tuks and floating markets",
+   "Was once called the Venice of the East for its canals",
+   "Among the most visited cities in the world",
+   "On the Chao Phraya River",
+   "The capital of Thailand"
+  ],
+  "fact": "Locals call it Krung Thep, 'City of Angels'."
+ },
+ {
+  "id": "nairobi",
+  "title": "Nairobi",
+  "category": "city",
+  "lon": 36.8219,
+  "lat": -1.2921,
+  "winRadiusKm": 20,
+  "hints": [
+   "Began in 1899 as a railway depot",
+   "Its name comes from a Maasai phrase meaning 'cool water'",
+   "The only capital with a national park inside its borders",
+   "Home to the UN Environment Programme headquarters",
+   "Nicknamed the Green City in the Sun",
+   "The capital of Kenya"
+  ],
+  "fact": "Lions and giraffes roam a park just 7 km from downtown skyscrapers."
+ },
+ {
+  "id": "reykjavik",
+  "title": "Reykjavík",
+  "category": "city",
+  "lon": -21.8174,
+  "lat": 64.1265,
+  "winRadiusKm": 15,
+  "hints": [
+   "The world's northernmost capital city",
+   "Heated almost entirely by geothermal energy",
+   "Its name means 'smoky bay' after steam from hot springs",
+   "Has a hilltop church shaped like basalt columns",
+   "Reagan and Gorbachev held a summit here in 1986",
+   "The capital of Iceland"
+  ],
+  "fact": "Nearly two-thirds of the country's population lives in its metro area."
+ },
+ {
+  "id": "venice",
+  "title": "Venice",
+  "category": "city",
+  "lon": 12.3155,
+  "lat": 45.4408,
+  "winRadiusKm": 8,
+  "hints": [
+   "A city built on 118 small islands",
+   "Has about 400 bridges and no cars",
+   "Famous for gondolas and a February carnival of masks",
+   "Was a powerful maritime republic for a thousand years",
+   "Its main square is named for St. Mark",
+   "Found in northeastern Italy"
+  ],
+  "fact": "The city rests on millions of wooden piles driven into mud centuries ago."
+ },
+ {
+  "id": "jerusalem",
+  "title": "Jerusalem",
+  "category": "city",
+  "lon": 35.2137,
+  "lat": 31.7683,
+  "winRadiusKm": 12,
+  "hints": [
+   "A holy city for three major religions",
+   "Its Old City is divided into four quarters",
+   "Destroyed and rebuilt at least twice in antiquity",
+   "Home to the Western Wall and the Dome of the Rock",
+   "Sits in the Judaean Mountains",
+   "Found between the Mediterranean and the Dead Sea"
+  ],
+  "fact": "'Jerusalem syndrome' is a documented condition in which visitors believe they are biblical figures."
+ },
+ {
+  "id": "havana",
+  "title": "Havana",
+  "category": "city",
+  "lon": -82.3666,
+  "lat": 23.1136,
+  "winRadiusKm": 15,
+  "hints": [
+   "Famous for vintage American cars and cigars",
+   "Founded by the Spanish in 1519",
+   "Hemingway lived nearby for 20 years",
+   "Its seafront promenade is called the Malecón",
+   "On the north coast of a Caribbean island",
+   "The capital of Cuba"
+  ],
+  "fact": "The classic cars survive because a 1960s import ban left owners nothing newer to buy."
+ },
+ {
+  "id": "marrakech",
+  "title": "Marrakech",
+  "category": "city",
+  "lon": -7.9811,
+  "lat": 31.6295,
+  "winRadiusKm": 15,
+  "hints": [
+   "Known as the Red City for its sandstone walls",
+   "Founded in 1070 by the Almoravids",
+   "Its main square fills with snake charmers and food stalls at night",
+   "That square is Jemaa el-Fnaa",
+   "Sits at the foot of the Atlas Mountains",
+   "Found in Morocco"
+  ],
+  "fact": "The country's name in several languages comes from the name of this city."
+ },
+ {
+  "id": "san-francisco",
+  "title": "San Francisco",
+  "category": "city",
+  "lon": -122.4194,
+  "lat": 37.7749,
+  "winRadiusKm": 12,
+  "hints": [
+   "Boomed during the 1849 Gold Rush",
+   "Destroyed by earthquake and fire in 1906",
+   "Famous for cable cars and steep streets",
+   "Has the crookedest street in the world",
+   "Home to an orange suspension bridge",
+   "Found in northern California, USA"
+  ],
+  "fact": "Its summer fog has an official name: Karl."
+ },
+ {
+  "id": "chicago",
+  "title": "Chicago",
+  "category": "city",
+  "lon": -87.6298,
+  "lat": 41.8781,
+  "winRadiusKm": 15,
+  "hints": [
+   "Rebuilt after a great fire in 1871, reputedly started by a cow",
+   "Birthplace of the skyscraper",
+   "Reversed the flow of its river in 1900",
+   "Dyes that river green every St. Patrick's Day",
+   "Nicknamed the Windy City",
+   "On the shore of Lake Michigan, USA"
+  ],
+  "fact": "Its deep-dish pizza is eaten with a knife and fork."
+ },
+ {
+  "id": "new-orleans",
+  "title": "New Orleans",
+  "category": "city",
+  "lon": -90.0715,
+  "lat": 29.9511,
+  "winRadiusKm": 15,
+  "hints": [
+   "Birthplace of jazz",
+   "Famous for Mardi Gras and beignets",
+   "Sold to the United States by France in 1803",
+   "Much of the city lies below sea level",
+   "Its oldest neighborhood is the French Quarter",
+   "Near the mouth of the Mississippi River, USA"
+  ],
+  "fact": "Above-ground tombs are used because the water table is too high to bury the dead."
+ },
+ {
+  "id": "vancouver",
+  "title": "Vancouver",
+  "category": "city",
+  "lon": -123.1207,
+  "lat": 49.2827,
+  "winRadiusKm": 15,
+  "hints": [
+   "A Pacific port backed by snow-capped mountains",
+   "Hosted the 2010 Winter Olympics",
+   "Has a 400-hectare park larger than Central Park",
+   "Nicknamed Hollywood North for its film industry",
+   "Consistently ranked among the most livable cities",
+   "Found in British Columbia, Canada"
+  ],
+  "fact": "You can ski and sail on the same day for much of the year."
+ },
+ {
+  "id": "lima",
+  "title": "Lima",
+  "category": "city",
+  "lon": -77.0428,
+  "lat": -12.0464,
+  "winRadiusKm": 20,
+  "hints": [
+   "Founded by Francisco Pizarro in 1535 as the City of Kings",
+   "The second-largest desert city in the world after Cairo",
+   "Almost never rains, but is cloudy half the year",
+   "Famous for ceviche and pisco sours",
+   "On the Pacific coast of South America",
+   "The capital of Peru"
+  ],
+  "fact": "Its central district is a UNESCO site for its colonial balconies."
+ },
+ {
+  "id": "seoul",
+  "title": "Seoul",
+  "category": "city",
+  "lon": 126.978,
+  "lat": 37.5665,
+  "winRadiusKm": 20,
+  "hints": [
+   "A capital for over 600 years",
+   "Lies just 50 km from a heavily fortified border",
+   "Hosted the 1988 Summer Olympics",
+   "Has the fastest average internet in the world",
+   "Split by the Han River",
+   "The capital of South Korea"
+  ],
+  "fact": "Its metropolitan area holds about half the country's population."
+ },
+ {
+  "id": "amsterdam",
+  "title": "Amsterdam",
+  "category": "city",
+  "lon": 4.9041,
+  "lat": 52.3676,
+  "winRadiusKm": 15,
+  "hints": [
+   "A city of canals, bicycles, and narrow houses",
+   "Named for a dam on the river Amstel",
+   "Houses lean forward on purpose to hoist furniture",
+   "Home to Anne Frank's hiding place",
+   "Has more bicycles than people",
+   "The capital of the Netherlands"
+  ],
+  "fact": "Around 15,000 bicycles are fished out of its canals every year."
+ },
+ {
+  "id": "prague",
+  "title": "Prague",
+  "category": "city",
+  "lon": 14.4378,
+  "lat": 50.0755,
+  "winRadiusKm": 15,
+  "hints": [
+   "Known as the City of a Hundred Spires",
+   "Has a 600-year-old astronomical clock",
+   "Its castle is the largest ancient castle complex in the world",
+   "Two defenestrations here started wars",
+   "Spanned by the medieval Charles Bridge over the Vltava",
+   "The capital of the Czech Republic"
+  ],
+  "fact": "Its citizens drink more beer per capita than any other nation."
+ },
+ {
+  "id": "athens",
+  "title": "Athens",
+  "category": "city",
+  "lon": 23.7275,
+  "lat": 37.9838,
+  "winRadiusKm": 15,
+  "hints": [
+   "One of the oldest cities in the world, inhabited for 5,000 years",
+   "Birthplace of democracy",
+   "Hosted the first modern Olympics in 1896",
+   "Named after a goddess who gifted it an olive tree",
+   "Dominated by a rocky hill with ancient temples",
+   "The capital of Greece"
+  ],
+  "fact": "Its ancient marathon route is still run every November."
+ },
+ {
+  "id": "edinburgh",
+  "title": "Edinburgh",
+  "category": "city",
+  "lon": -3.1883,
+  "lat": 55.9533,
+  "winRadiusKm": 12,
+  "hints": [
+   "Built on extinct volcanoes",
+   "Hosts the largest arts festival in the world every August",
+   "Its castle sits atop a volcanic plug",
+   "Harry Potter was partly written in its cafés",
+   "Nicknamed Auld Reekie",
+   "The capital of Scotland"
+  ],
+  "fact": "A one o'clock gun has fired from the castle almost every day since 1861."
+ },
+ {
+  "id": "kyoto",
+  "title": "Kyoto",
+  "category": "city",
+  "lon": 135.7681,
+  "lat": 35.0116,
+  "winRadiusKm": 15,
+  "hints": [
+   "An imperial capital for more than 1,000 years",
+   "Has about 1,600 Buddhist temples and 400 Shinto shrines",
+   "Spared from atomic bombing on the order of a US secretary of war",
+   "Famous for geisha in the Gion district",
+   "Gave its name to a 1997 climate treaty",
+   "Found on Honshu, Japan"
+  ],
+  "fact": "Nintendo was founded here in 1889 as a playing-card company."
+ },
+ {
+  "id": "hanoi",
+  "title": "Hanoi",
+  "category": "city",
+  "lon": 105.8342,
+  "lat": 21.0278,
+  "winRadiusKm": 15,
+  "hints": [
+   "Celebrated its 1,000th birthday in 2010",
+   "Its Old Quarter has 36 streets each once named for a trade",
+   "Trains squeeze through a street between houses",
+   "Home to a lake with a legendary sword-stealing turtle",
+   "Its name means 'inside the rivers'",
+   "The capital of Vietnam"
+  ],
+  "fact": "Egg coffee, made with whipped yolk, was invented here during a 1940s milk shortage."
+ },
+ {
+  "id": "lagos",
+  "title": "Lagos",
+  "category": "city",
+  "lon": 3.3792,
+  "lat": 6.5244,
+  "winRadiusKm": 20,
+  "hints": [
+   "One of the fastest-growing megacities on Earth",
+   "Was its country's capital until 1991",
+   "Centre of the Nollywood film industry",
+   "Named by the Portuguese after a town in the Algarve",
+   "Spreads across islands and a lagoon",
+   "The largest city in Nigeria"
+  ],
+  "fact": "Nollywood produces around 2,500 films a year, second only to Bollywood."
+ },
+ {
+  "id": "honolulu",
+  "title": "Honolulu",
+  "category": "city",
+  "lon": -157.8583,
+  "lat": 21.3069,
+  "winRadiusKm": 15,
+  "hints": [
+   "The most remote major city in the world",
+   "Home to Waikiki Beach and an extinct volcano called Diamond Head",
+   "A nearby naval base was attacked in December 1941",
+   "Birthplace of a US president",
+   "Its name means 'sheltered harbor'",
+   "The capital of Hawaii"
+  ],
+  "fact": "It is the only US state capital with a royal palace."
+ },
+ {
+  "id": "wellington",
+  "title": "Wellington",
+  "category": "city",
+  "lon": 174.7762,
+  "lat": -41.2865,
+  "winRadiusKm": 15,
+  "hints": [
+   "The southernmost capital city in the world",
+   "Windier on average than Chicago",
+   "Home to a famous film studio where Lord of the Rings was made",
+   "Its red cable car climbs to a botanic garden",
+   "At the southern tip of its country's North Island",
+   "The capital of New Zealand"
+  ],
+  "fact": "It has more cafés and restaurants per head than New York City."
+ },
+ {
+  "id": "grand-canyon",
+  "title": "Grand Canyon",
+  "category": "nature",
+  "lon": -112.1401,
+  "lat": 36.0544,
+  "winRadiusKm": 30,
+  "hints": [
+   "A gorge 446 km long and up to 1.8 km deep",
+   "Carved by a river over about 6 million years",
+   "Its rocks at the bottom are nearly 2 billion years old",
+   "Teddy Roosevelt called it the one great sight every American should see",
+   "Cut by the Colorado River",
+   "Found in Arizona, USA"
+  ],
+  "fact": "The north rim is about 300 m higher than the south rim, so it gets much more snow."
+ },
+ {
+  "id": "mount-everest",
+  "title": "Mount Everest",
+  "category": "nature",
+  "lon": 86.925,
+  "lat": 27.9881,
+  "winRadiusKm": 25,
+  "hints": [
+   "The highest point on Earth above sea level",
+   "Known locally as Sagarmatha and Chomolungma",
+   "First summited in 1953 by Hillary and Tenzing",
+   "Grows about 4 mm taller each year",
+   "Lies in the Himalayas on an international border",
+   "Found between Nepal and Tibet"
+  ],
+  "fact": "Its summit rock is marine limestone, once the floor of an ancient sea."
+ },
+ {
+  "id": "niagara-falls",
+  "title": "Niagara Falls",
+  "category": "nature",
+  "lon": -79.0747,
+  "lat": 43.0799,
+  "winRadiusKm": 10,
+  "hints": [
+   "Three waterfalls with the highest flow rate in North America",
+   "Daredevils have gone over in barrels since 1901",
+   "Was switched off in 1969 to study erosion",
+   "Straddles an international border",
+   "Between Lake Erie and Lake Ontario",
+   "Found on the USA-Canada border"
+  ],
+  "fact": "The falls have retreated about 11 km upstream in 12,000 years."
+ },
+ {
+  "id": "uluru",
+  "title": "Uluru",
+  "category": "nature",
+  "lon": 131.0369,
+  "lat": -25.3444,
+  "winRadiusKm": 20,
+  "hints": [
+   "A giant sandstone monolith in a desert",
+   "Sacred to the Anangu people",
+   "Glows red at sunrise and sunset",
+   "Climbing it was banned in 2019",
+   "Also called Ayers Rock",
+   "Found in the Northern Territory, Australia"
+  ],
+  "fact": "Most of it is underground; the rock extends about 2.5 km beneath the surface."
+ },
+ {
+  "id": "victoria-falls",
+  "title": "Victoria Falls",
+  "category": "nature",
+  "lon": 25.8572,
+  "lat": -17.9243,
+  "winRadiusKm": 15,
+  "hints": [
+   "The largest sheet of falling water in the world",
+   "Locals call it 'the smoke that thunders'",
+   "David Livingstone named it after his queen in 1855",
+   "Its spray can be seen from 50 km away",
+   "On the Zambezi River",
+   "Found on the Zambia-Zimbabwe border"
+  ],
+  "fact": "At the edge sits the Devil's Pool, where swimmers lean over a 100 m drop in the dry season."
+ },
+ {
+  "id": "mount-fuji",
+  "title": "Mount Fuji",
+  "category": "nature",
+  "lon": 138.7274,
+  "lat": 35.3606,
+  "winRadiusKm": 20,
+  "hints": [
+   "A nearly perfect volcanic cone",
+   "Its country's highest peak at 3,776 m",
+   "Last erupted in 1707",
+   "Climbed by about 300,000 people each summer",
+   "Painted in a famous series of 36 views",
+   "Found on Honshu, Japan"
+  ],
+  "fact": "Women were banned from climbing it until 1872."
+ },
+ {
+  "id": "great-barrier-reef",
+  "title": "Great Barrier Reef",
+  "category": "nature",
+  "lon": 146.8169,
+  "lat": -18.2871,
+  "winRadiusKm": 100,
+  "hints": [
+   "The largest living structure on Earth",
+   "Visible from space",
+   "Made up of nearly 3,000 individual reefs",
+   "Home to 1,500 species of fish",
+   "Stretches 2,300 km along a coast",
+   "Found off Queensland, Australia"
+  ],
+  "fact": "Captain Cook ran aground on it in 1770 and spent seven weeks repairing his ship."
+ },
+ {
+  "id": "iguazu-falls",
+  "title": "Iguazu Falls",
+  "category": "nature",
+  "lon": -54.4367,
+  "lat": -25.6953,
+  "winRadiusKm": 15,
+  "hints": [
+   "A chain of 275 waterfalls nearly 3 km wide",
+   "Its most dramatic drop is called the Devil's Throat",
+   "Eleanor Roosevelt reportedly exclaimed 'Poor Niagara!' on seeing it",
+   "Lies in subtropical rainforest",
+   "Straddles an international border",
+   "Found between Argentina and Brazil"
+  ],
+  "fact": "The name means 'big water' in the Guaraní language."
+ },
+ {
+  "id": "kilimanjaro",
+  "title": "Mount Kilimanjaro",
+  "category": "nature",
+  "lon": 37.3556,
+  "lat": -3.0674,
+  "winRadiusKm": 25,
+  "hints": [
+   "The highest mountain in Africa at 5,895 m",
+   "A dormant volcano with three cones",
+   "The tallest free-standing mountain in the world",
+   "Its summit glaciers are rapidly disappearing",
+   "Rises alone above the savanna near Kenya",
+   "Found in Tanzania"
+  ],
+  "fact": "Climbers pass through five climate zones, from rainforest to arctic, on the way up."
+ },
+ {
+  "id": "yellowstone",
+  "title": "Yellowstone (Old Faithful)",
+  "category": "nature",
+  "lon": -110.8281,
+  "lat": 44.4605,
+  "winRadiusKm": 30,
+  "hints": [
+   "The world's first national park, created in 1872",
+   "Sits atop a supervolcano",
+   "Contains half the world's geysers",
+   "Famous for a geyser that erupts roughly every 90 minutes",
+   "Wolves were reintroduced in 1995",
+   "Found mostly in Wyoming, USA"
+  ],
+  "fact": "The caldera is about 55 by 72 km across, far too large to see from the ground."
+ },
+ {
+  "id": "ha-long-bay",
+  "title": "Hạ Long Bay",
+  "category": "nature",
+  "lon": 107.0431,
+  "lat": 20.9101,
+  "winRadiusKm": 25,
+  "hints": [
+   "A bay dotted with about 1,600 limestone islands",
+   "Its name means 'descending dragon'",
+   "Legend says a dragon spat out jewels that became the islands",
+   "Many islands are hollow with huge caves",
+   "On the Gulf of Tonkin",
+   "Found in northern Vietnam"
+  ],
+  "fact": "Some islands have floating fishing villages with their own schools."
+ },
+ {
+  "id": "salar-de-uyuni",
+  "title": "Salar de Uyuni",
+  "category": "nature",
+  "lon": -67.4891,
+  "lat": -20.1338,
+  "winRadiusKm": 40,
+  "hints": [
+   "The largest salt flat in the world",
+   "After rain it becomes a giant mirror",
+   "Holds a large share of the world's lithium",
+   "So flat that satellites use it for calibration",
+   "At 3,650 m in the Andes",
+   "Found in Bolivia"
+  ],
+  "fact": "Hotels on the flat are built entirely from blocks of salt."
+ },
+ {
+  "id": "dead-sea",
+  "title": "Dead Sea",
+  "category": "nature",
+  "lon": 35.4732,
+  "lat": 31.5,
+  "winRadiusKm": 30,
+  "hints": [
+   "The lowest point on land, about 430 m below sea level",
+   "Nearly ten times saltier than the ocean",
+   "So dense that swimmers float effortlessly",
+   "Shrinking by about a metre a year",
+   "Bordered by Jordan, Israel, and the West Bank",
+   "Found in the Jordan Rift Valley"
+  ],
+  "fact": "Herod the Great used it as one of the world's first health resorts."
+ },
+ {
+  "id": "matterhorn",
+  "title": "Matterhorn",
+  "category": "nature",
+  "lon": 7.6586,
+  "lat": 45.9766,
+  "winRadiusKm": 15,
+  "hints": [
+   "A pyramid-shaped peak with four distinct faces",
+   "Its first ascent in 1865 ended with four climbers falling to their deaths",
+   "Appears on a famous triangular chocolate bar",
+   "Stands above the car-free resort of Zermatt",
+   "On the Swiss-Italian border in the Alps",
+   "Found in Switzerland"
+  ],
+  "fact": "Each face points almost exactly to one of the compass directions."
+ },
+ {
+  "id": "galapagos",
+  "title": "Galápagos Islands",
+  "category": "nature",
+  "lon": -90.9656,
+  "lat": -0.9538,
+  "winRadiusKm": 80,
+  "hints": [
+   "A volcanic archipelago that inspired a theory of evolution",
+   "Home to giant tortoises and marine iguanas",
+   "Visited by Charles Darwin aboard HMS Beagle in 1835",
+   "Straddles the equator about 1,000 km offshore",
+   "Its name comes from the Spanish for tortoise",
+   "Found in the Pacific, part of Ecuador"
+  ],
+  "fact": "Lonesome George, the last of his subspecies, died here in 2012 at over 100 years old."
+ },
+ {
+  "id": "serengeti",
+  "title": "Serengeti",
+  "category": "nature",
+  "lon": 34.8333,
+  "lat": -2.3333,
+  "winRadiusKm": 60,
+  "hints": [
+   "A vast savanna famous for the Great Migration",
+   "Over a million wildebeest cross it every year",
+   "Its name means 'endless plains' in Maasai",
+   "Home to the largest lion population in Africa",
+   "Borders the Maasai Mara to the north",
+   "Found in northern Tanzania"
+  ],
+  "fact": "The migration is the largest overland animal movement on Earth, about 800 km in a loop."
+ },
+ {
+  "id": "amazon-manaus",
+  "title": "Amazon River (Meeting of Waters)",
+  "category": "nature",
+  "lon": -59.9,
+  "lat": -3.1333,
+  "winRadiusKm": 40,
+  "hints": [
+   "Where two rivers run side by side for 6 km without mixing",
+   "One is dark as tea, the other sandy brown",
+   "They differ in speed, temperature and acidity",
+   "The combined river is the largest in the world by volume",
+   "Beside a city with a famous opera house in the jungle",
+   "Found near Manaus, Brazil"
+  ],
+  "fact": "The Amazon discharges more water than the next seven largest rivers combined."
+ },
+ {
+  "id": "sahara-erg-chebbi",
+  "title": "Sahara (Erg Chebbi)",
+  "category": "nature",
+  "lon": -4.0,
+  "lat": 31.15,
+  "winRadiusKm": 40,
+  "hints": [
+   "Towering orange sand dunes up to 150 m high",
+   "Part of the largest hot desert on Earth",
+   "Camel treks leave from a village called Merzouga",
+   "Night skies here are among the darkest anywhere",
+   "Near the Algerian border",
+   "Found in southeastern Morocco"
+  ],
+  "fact": "The wider desert is roughly the size of the United States."
+ },
+ {
+  "id": "antelope-canyon",
+  "title": "Antelope Canyon",
+  "category": "nature",
+  "lon": -111.3743,
+  "lat": 36.8619,
+  "winRadiusKm": 15,
+  "hints": [
+   "A narrow slot canyon with wave-like sandstone walls",
+   "Carved by flash floods over millennia",
+   "Light beams pierce it at midday in summer",
+   "On Navajo Nation land",
+   "Near the town of Page and Lake Powell",
+   "Found in Arizona, USA"
+  ],
+  "fact": "Its Navajo name means 'the place where water runs through rocks'."
+ },
+ {
+  "id": "zhangjiajie",
+  "title": "Zhangjiajie",
+  "category": "nature",
+  "lon": 110.4794,
+  "lat": 29.325,
+  "winRadiusKm": 25,
+  "hints": [
+   "Thousands of towering sandstone pillars",
+   "Inspired the floating mountains in the film Avatar",
+   "Has the world's tallest outdoor elevator, built into a cliff",
+   "Also home to a long glass-bottomed bridge",
+   "Its country's first national forest park",
+   "Found in Hunan, China"
+  ],
+  "fact": "One pillar was officially renamed 'Avatar Hallelujah Mountain' in 2010."
+ },
+ {
+  "id": "plitvice",
+  "title": "Plitvice Lakes",
+  "category": "nature",
+  "lon": 15.6214,
+  "lat": 44.8654,
+  "winRadiusKm": 15,
+  "hints": [
+   "Sixteen turquoise lakes connected by waterfalls",
+   "Natural travertine dams separate the lakes",
+   "Wooden boardwalks wind over the water",
+   "Its country's oldest and largest national park",
+   "In the Dinaric Alps",
+   "Found in Croatia"
+  ],
+  "fact": "The lakes change color from azure to green to grey depending on minerals and sunlight."
+ },
+ {
+  "id": "cliffs-of-moher",
+  "title": "Cliffs of Moher",
+  "category": "nature",
+  "lon": -9.4306,
+  "lat": 52.9715,
+  "winRadiusKm": 15,
+  "hints": [
+   "Sea cliffs rising 214 m straight out of the Atlantic",
+   "Run for about 14 km along a coast",
+   "Home to 30,000 nesting seabirds including puffins",
+   "Appeared in Harry Potter and The Princess Bride",
+   "On the west coast of an island nation",
+   "Found in County Clare, Ireland"
+  ],
+  "fact": "On a clear day you can see the Aran Islands and the mountains of Connemara."
+ },
+ {
+  "id": "blue-hole-belize",
+  "title": "Great Blue Hole",
+  "category": "nature",
+  "lon": -87.5347,
+  "lat": 17.316,
+  "winRadiusKm": 15,
+  "hints": [
+   "A giant circular sinkhole in the sea, 300 m across",
+   "Formed as a cave when sea levels were lower",
+   "Jacques Cousteau declared it a top dive site in 1971",
+   "Lies in the middle of a coral atoll",
+   "Off the coast of a Central American country",
+   "Found in Belize"
+  ],
+  "fact": "It is about 125 m deep, with stalactites hanging from submerged cave ledges."
+ },
+ {
+  "id": "bora-bora",
+  "title": "Bora Bora",
+  "category": "nature",
+  "lon": -151.7415,
+  "lat": -16.5004,
+  "winRadiusKm": 15,
+  "hints": [
+   "A volcanic island ringed by a turquoise lagoon",
+   "Famous for overwater bungalows",
+   "Its twin peaks are the remains of an extinct volcano",
+   "Used as a US supply base in WWII",
+   "Part of the Society Islands",
+   "Found in French Polynesia"
+  ],
+  "fact": "The lagoon is so sheltered that most of the island's 'roads' are on the barrier reef islets."
+ },
+ {
+  "id": "giants-causeway",
+  "title": "Giant's Causeway",
+  "category": "nature",
+  "lon": -6.5115,
+  "lat": 55.2408,
+  "winRadiusKm": 15,
+  "hints": [
+   "About 40,000 interlocking basalt columns",
+   "Formed by cooling lava 60 million years ago",
+   "Most columns are hexagonal",
+   "Legend says a giant built it to reach Scotland",
+   "On the north Antrim coast",
+   "Found in Northern Ireland"
+  ],
+  "fact": "Matching columns on the Scottish island of Staffa helped inspire the giant legend."
+ },
+ {
+  "id": "pamukkale",
+  "title": "Pamukkale",
+  "category": "nature",
+  "lon": 29.1206,
+  "lat": 37.9203,
+  "winRadiusKm": 15,
+  "hints": [
+   "Dazzling white terraces of mineral pools on a hillside",
+   "Formed by calcium-rich hot springs",
+   "Its name means 'cotton castle'",
+   "The ancient spa city of Hierapolis sits on top",
+   "People have bathed here for 2,000 years",
+   "Found in southwestern Turkey"
+  ],
+  "fact": "Visitors must go barefoot to protect the travertine."
+ },
+ {
+  "id": "denali",
+  "title": "Denali",
+  "category": "nature",
+  "lon": -151.007,
+  "lat": 63.0692,
+  "winRadiusKm": 30,
+  "hints": [
+   "The highest peak in North America at 6,190 m",
+   "Officially called Mount McKinley from 1917 to 2015",
+   "Its name means 'the high one' in Koyukon",
+   "Has a greater base-to-peak rise than Everest",
+   "Only visible on about 30% of summer days due to clouds",
+   "Found in Alaska, USA"
+  ],
+  "fact": "Temperatures on the summit have dropped below -73 °C."
+ },
+ {
+  "id": "vatnajokull",
+  "title": "Vatnajökull Glacier",
+  "category": "nature",
+  "lon": -16.8,
+  "lat": 64.4,
+  "winRadiusKm": 50,
+  "hints": [
+   "The largest glacier in Europe by volume",
+   "Covers about 8% of a country",
+   "Active volcanoes lie beneath the ice",
+   "Famous for blue ice caves in winter",
+   "Its meltwater feeds a lagoon of floating icebergs",
+   "Found in southeastern Iceland"
+  ],
+  "fact": "A 1996 eruption beneath it unleashed a flood with the flow of the Amazon."
+ },
+ {
+  "id": "lake-baikal",
+  "title": "Lake Baikal",
+  "category": "nature",
+  "lon": 108.0,
+  "lat": 53.5,
+  "winRadiusKm": 80,
+  "hints": [
+   "The deepest and oldest lake in the world",
+   "Holds about 20% of Earth's unfrozen fresh water",
+   "Home to the only freshwater seal species",
+   "Its ice is so clear and thick that cars drive across in winter",
+   "About 25 million years old",
+   "Found in Siberia, Russia"
+  ],
+  "fact": "It is 1,642 m deep; the Burj Khalifa would disappear beneath its surface twice over."
+ },
+ {
+  "id": "komodo",
+  "title": "Komodo Island",
+  "category": "nature",
+  "lon": 119.4833,
+  "lat": -8.55,
+  "winRadiusKm": 25,
+  "hints": [
+   "Home to the largest lizard in the world",
+   "Those lizards can grow to 3 m and weigh 70 kg",
+   "Also has a rare pink sand beach",
+   "Part of a national park with world-class diving",
+   "In the Lesser Sunda Islands",
+   "Found in Indonesia"
+  ],
+  "fact": "The dragons' bite delivers venom and bacteria; they can bring down a water buffalo."
+ }
+]

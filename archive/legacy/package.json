@@ -1,0 +1,46 @@
+{
+  "name": "WORLDle",
+  "version": "1.0.1",
+  "description": "WORLDle",
+  "engines": {
+    "node": ">=16.13.x",
+    "npm": ">=8.1.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianfunk/worldle.git"
+  },
+  "keywords": [
+    "worldle",
+    "geo",
+    "geographic",
+    "geography",
+    "map",
+    "maps",
+    "mapping",
+    "gis",
+    "bee",
+    "geography bee"
+  ],
+  "author": "brianfunk",
+  "bugs": {
+    "url": "https://github.com/brianfunk/worldle/issues"
+  },
+  "homepage": "https://github.com/brianfunk/worldle#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^14.3.0",
+    "express": "^4.17.2",
+    "file-stream-rotator": "^0.6.1",
+    "include": "^1.1.0",
+    "mkdirp": "^1.0.4",
+    "morgan": "^1.10.0",
+    "qrcode": "^1.5.1"
+  }
+}
